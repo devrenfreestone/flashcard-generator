@@ -1,0 +1,1 @@
+//method replace for strings on the string prototype string.prototype.replace("","");
