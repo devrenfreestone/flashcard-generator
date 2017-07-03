@@ -1,1 +1,1 @@
-console.log('basic card');
+// console.log('basic card');
